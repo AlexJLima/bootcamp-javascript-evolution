@@ -12,7 +12,7 @@ Neste curso estou aprendendo sobre o modelo de layout flexbox do CSS. Em cada au
 
 * `flex-direction`
 
-    O segundo arquivo trabalha com a propriedade `flex-direction` em listas, cada classe implementa os quatros valores diferentes dessa propriedade: `row`, `row-reverse`, `column`, `column-reverse`. Para exemplificar cada um desses valores, foram criadas quatro listas que implementam cada uma dessas funcinalidades.
+    O segundo arquivo trabalha com a propriedade `flex-direction`. Para isso, foram criadas quatro classes para definir cada um dos quatros valores possíveis para essa propriedade: `row`, `row-reverse`, `column`, `column-reverse`. Para mostrar na prática o que cada um desses itens faz, foram criadas quatro listas que implementam as classes criadas.
 
 * `flex-wrap`
 
