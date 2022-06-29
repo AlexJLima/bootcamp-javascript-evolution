@@ -17,3 +17,7 @@ Neste curso estou aprendendo sobre o modelo de layout flexbox do CSS. Em cada au
 * `flex-wrap`
 
     Essa propriedade impede que conteúdos dentro de uma div vazem para fora quando não couberem dentro desta. Quando ocorre essa situação, o `flex-wrap` reposiciona o conteúdo para cima ou para baixo, dependendo do valor que for passado para propriedade. Ele também pode reposicionar para esquerda ou para a direita, caso a propriedade `flex-direction` esteja com o valor `column`.
+
+* `flex-flow`
+
+    Ele é um atalho que permite alterar as propriedades `flex-direction` e `flex-wrap` ao mesmo tempo. Para isso basta adicionar os valores de cada uma na propriedades `flex-flow` separados por espaço, por exemplo: `flex-flow: row wrap`.
