@@ -28,4 +28,9 @@ Neste curso estou aprendendo sobre o modelo de layout flexbox do CSS. Em cada au
 
 * `align-items`
 
-    Também possui o mesmo propósito de reorganização dos itens dentro da div, entretanto ele apenas considera o eixo vertical como parâmetro para essa reorganização. Ele possui os mesmos valores do `justify-content`.
+    Uma das propriedades mais difíceis de entender, ela possui o mesmo propósito de reorganização dos itens dentro da div, entretanto ele apenas considera o eixo vertical como referência para essa reorganização. Ele possui os mesmos valores do `justify-content`.
+
+* `align-content`
+
+    Tive a mesma dificuldade da propriedade anterior, ela faz a mesma coisa do `align-items`, mas utilizando o eixo horizontal como referência.
+
