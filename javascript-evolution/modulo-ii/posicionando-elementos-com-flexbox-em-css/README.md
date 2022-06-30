@@ -25,3 +25,7 @@ Neste curso estou aprendendo sobre o modelo de layout flexbox do CSS. Em cada au
 * `justify-content`
 
     Basicamente, ele oferece maneiras diferentes de reorganizar os itens dentro de uma div. O primeiro valor é o `flex-start`, ele posiciona os itens bem no começo da div. O `flex-end` faz o contrário, posiciona no final da div. O `center` apenas centraliza os itens mantendo-os juntos com o espaçamento original. O `space-between` distribuí os itens ao longo da div, porém, os que ficam na ponta permanecem nessa posição. Em outras palavras, ele coloca um espaçamento entre o item inicial e o item final. Por fim, temos o `space-around`, ele faz a mesma coisa do anterior só que tanto o primeiro quanto o segundo item recebem espaçamento, eles não ficam grudados nas bordas da div como aconteciam no `space-between`.
+
+* `align-items`
+
+    Também possui o mesmo propósito de reorganização dos itens dentro da div, entretanto ele apenas considera o eixo vertical como parâmetro para essa reorganização. Ele possui os mesmos valores do `justify-content`.
