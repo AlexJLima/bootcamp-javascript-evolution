@@ -4,7 +4,7 @@
 
 Neste curso estou aprendendo sobre o modelo de layout flexbox do CSS. Em cada aula eu criei arquivos separados que implementam diferentes características desse modelo.
 
-## Fudamentos do Flexbox - Parte 1
+## Fundamentos do Flexbox - Parte 1
 
 * `display: flex`
 
