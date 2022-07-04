@@ -252,6 +252,11 @@ footer .footer{
 @media(max-width: 992px){
     .flex-container{
         flex-direction: column;
+        align-items: center;
+    }
+
+    .list-items{
+        margin-top: 10px;
     }
 
     .apresentacao{
